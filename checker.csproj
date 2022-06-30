@@ -22,7 +22,6 @@
     <Compile Include="checker.cs" />
     <Compile Include="Interface\IBatteryChecker.cs" />
     <Compile Include="Interface\IStrategy.cs" />
-    <Compile Include="Models\BatteryModel.cs" />
     <Compile Include="Stratgey.cs" />
     <Compile Include="Temprature.cs" />
   </ItemGroup>
